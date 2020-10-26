@@ -4,6 +4,13 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+$(function(){
+    $('button').on('click',function(){
+        var r= $('<input type="button" value="new button"/>');
+        $("body").append(r);
+    });
+});
+
 (function($) {
 
 	var	$window = $(window),
