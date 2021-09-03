@@ -1,18 +1,17 @@
-Photon by HTML5 UP
+Stellar by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
+Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
+I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
+nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
+you need one), and an assortment of pre-styled elements.
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+(* = not included)
 
 AJ
 aj@lkn.io | @ajlkn
@@ -28,4 +27,5 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
